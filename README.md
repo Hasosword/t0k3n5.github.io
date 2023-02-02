@@ -6,7 +6,7 @@
 <div align="center">
   <p>The Most Simplistic Unblocker Ever</p>
 <a href="https://discord.gg/JawyTs5zsh"><img height="30px" src="https://raw.githubusercontent.com/Chromium-Workshop/.github/main/profile/Discord-7289DA.png"><img></a>
-<a href="https://www.buymeacoffee.com/scarat3k"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=scarat3k&button_colour=f5bce0&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<a href="https://www.buymeacoffee.com/scarat3k"><img height="30px" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=scarat3k&button_colour=f5bce0&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 </div>
 <br>
 
