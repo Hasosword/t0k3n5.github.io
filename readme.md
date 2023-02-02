@@ -21,3 +21,4 @@ $ npm start # defualt port is 5000
 - Developer - Scaratek
 - UV - https://github.com/titaniumnetwork-dev/ultraviolet-app
 - Madjikun - Wanted To Be In Credits :D
+- sneej - Also Wanted To Be In Credits :D
