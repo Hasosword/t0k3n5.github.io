@@ -1,5 +1,12 @@
-# ProXz
-The Most Simplistic Unblocker Ever
+<div align="center">
+<img width="150px" src="https://raw.githubusercontent.com/Chromium-Workshop/.github/main/profile/122715711.png">
+</div>
+
+<h1 align="center">ProXz</h1>
+<div align="center">
+<a href="https://discord.gg/JrCDb6zjDD"><img height="30px" src="https://raw.githubusercontent.com/Chromium-Workshop/.github/main/profile/Discord-7289DA.png"><img></a>
+</div>
+<br>
 
 ## Installation
 ```bash
@@ -13,3 +20,7 @@ $ npm start # Default Port Is 9000
 - UV Webproxy (Osana Version Coming Soonish)
 - AB Cloaking
 - Tab Cloaking
+- Cool UI
+
+## Credit
+- UV - https://github.com/titaniumnetwork-dev/ultraviolet-app
