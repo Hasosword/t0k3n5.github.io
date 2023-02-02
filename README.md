@@ -25,3 +25,5 @@ $ npm start # Default Port Is 9000
 
 ## Credit
 - UV - https://github.com/titaniumnetwork-dev/ultraviolet-app
+- Cloaking - https://github.com/NebulaServices/Nebula
+- Osana - https://github.com/NebulaServices/Osana
