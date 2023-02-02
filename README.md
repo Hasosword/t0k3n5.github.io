@@ -21,10 +21,7 @@ $ npm start # Default Port Is 9000
 ## Features
 - UV Webproxy (Osana Version Coming Soonish)
 - AB Cloaking
-- Tab Cloaking
 - Cool UI
 
 ## Credit
 - UV - https://github.com/titaniumnetwork-dev/ultraviolet-app
-- Cloaking - https://github.com/NebulaServices/Nebula
-- Osana - https://github.com/NebulaServices/Osana
