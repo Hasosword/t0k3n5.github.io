@@ -5,7 +5,7 @@
 <h1 align="center">ProXz</h1>
 <div align="center">
   <p>The Most Simplistic Unblocker Ever</p>
-<a href="https://discord.gg/JrCDb6zjDD"><img height="30px" src="https://raw.githubusercontent.com/Chromium-Workshop/.github/main/profile/Discord-7289DA.png"><img></a>
+<a href="https://discord.gg/JawyTs5zsh"><img height="30px" src="https://raw.githubusercontent.com/Chromium-Workshop/.github/main/profile/Discord-7289DA.png"><img></a>
 </div>
 <br>
 
