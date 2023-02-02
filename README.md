@@ -1,5 +1,5 @@
 <div align="center">
-<img width="150px" src="https://raw.githubusercontent.com/Chromium-Workshop/.github/main/profile/122715711.png">
+<img width="150px" src="https://raw.githubusercontent.com/Scaratek/ProXz/main/Screenshot_2023-02-02_2.02.10_PM-removebg-preview.png">
 </div>
 
 <h1 align="center">ProXz</h1>
